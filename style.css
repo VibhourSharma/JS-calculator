@@ -31,7 +31,6 @@ h3 {
   padding: 10px;
   margin-bottom: 10px;
   border-radius: 5px;
-  cursor: text !important;
 }
 
 .display input {
@@ -85,20 +84,4 @@ button:hover {
 .backspace-btn {
   color: #333;
   padding: 10px 25px 10px 25px;
-}
-
-@media screen and (max-width: 400px) {
-  .calculator-container {
-    margin-bottom: 10px;
-  }
-
-  h3 {
-    font-size: 20px;
-  }
-}
-
-@media screen and (max-width: 320px) {
-  .calculator {
-    max-width: 250px;
-  }
 }
