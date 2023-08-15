@@ -1,6 +1,7 @@
+@import url("https://fonts.googleapis.com/css2?family=Bai+Jamjuree&family=Eczar&family=Kanit&family=Poppins:wght@100;200;300;400;500;600;700;800;900&family=Rubik&display=swap");
+
 body {
   background-color: #f2f2f2;
-  font-family: Arial, sans-serif;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -11,7 +12,7 @@ body {
 }
 
 h3 {
-  font-family: Arial, sans-serif;
+  font-family: "Rubik", sans-serif;
   font-size: 24px;
   margin: 0;
   padding: 10px;
@@ -53,7 +54,7 @@ button {
   font-size: 18px;
   border: none;
   background-color: #f2f2f2;
-  color: #333;
+  font-family: "Rubik", sans-serif;
   cursor: pointer;
   transition: background-color 0.3s;
 }
